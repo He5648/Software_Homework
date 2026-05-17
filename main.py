@@ -1,1 +1,1 @@
-print('mian')
+print('B2_mian')
